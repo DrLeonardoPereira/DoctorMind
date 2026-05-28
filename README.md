@@ -1,4 +1,7 @@
+![DoctorMind Logo](Logo)
+
 # DoctorMind
+
 import React, { useState } from 'react';
 
 const WelcomeScreen: React.FC = () => {
